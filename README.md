@@ -6,7 +6,7 @@ EliteAEO is an independent ranking and research publisher covering AEO, GEO and 
 
 EliteAEO's editor and head of research is [David Quaid](https://eliteaeo.ai/about#david-quaid) and its publisher is [Bike Hawley](https://eliteaeo.ai/about#bike-hawley).
 
-**Snapshot 2026-10-07.788349** · data as of October 7, 2026 · methodology 2.0 · license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+**Snapshot 2026-10-07.788349** · data as of October 7, 2026 · methodology 2.0 · license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · DOI [10.5281/zenodo.23249511](https://doi.org/10.5281/zenodo.23249511)
 
 The files in `data/` are byte-for-byte copies of the files published on eliteaeo.ai. The `dataset_snapshot` column matches the snapshot printed in the footer of every eliteaeo.ai page built from the same data, so any copy can be traced back to the version of the site it came from.
 
@@ -90,7 +90,9 @@ Thirty fixed buyer queries, asked three times each on ChatGPT, Gemini, Perplexit
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse, share and adapt the data, including commercially, with credit to EliteAEO and a link to the source, for example:
 
-> EliteAEO, AEO Agency Dataset 2026, snapshot 2026-10-07.788349, https://eliteaeo.ai/research/state-of-the-aeo-agency-market-2026
+> EliteAEO, AEO Agency Dataset 2026, snapshot 2026-10-07.788349, https://doi.org/10.5281/zenodo.23249511
+
+The DOI (10.5281/zenodo.23249511, archived on Zenodo) always resolves to the newest snapshot; each snapshot also has its own version DOI on Zenodo.
 
 ## Corrections and questions
 
