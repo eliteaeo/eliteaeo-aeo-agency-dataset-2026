@@ -26,6 +26,16 @@
     "Perplexity",
     "Gemini"
   ],
+  "contributors": [
+    {
+      "name": "Quaid, David",
+      "type": "Editor"
+    },
+    {
+      "name": "Hawley, Bike",
+      "type": "DataCollector"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "https://eliteaeo.ai/research/state-of-the-aeo-agency-market-2026",
