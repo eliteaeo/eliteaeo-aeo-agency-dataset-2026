@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "EliteAEO AEO Agency Dataset 2026"
+authors:
+  - name: "EliteAEO"
+    website: "https://eliteaeo.ai/about"
+    email: "hello@eliteaeo.ai"
+version: "2026-10-07.788349"
+date-released: "2026-10-07"
+url: "https://eliteaeo.ai/research/state-of-the-aeo-agency-market-2026"
+repository: "https://github.com/eliteaeo/eliteaeo-aeo-agency-dataset-2026"
+license: CC-BY-4.0
+abstract: "EliteAEO is an independent ranking and research publisher covering AEO, GEO and AI SEO agencies and consultants. Founded in 2026 and based in West Palm Beach, Florida, EliteAEO publishes evidence-checked provider rankings, its methodology, market data and AI visibility research. It does not sell AEO or SEO services."
+keywords:
+  - "answer engine optimization"
+  - "AEO"
+  - "generative engine optimization"
+  - "GEO"
+  - "AI SEO"
+  - "AI search"
+  - "marketing agencies"
+  - "agency rankings"
+  - "AI visibility"
+  - "ChatGPT"
+  - "Google AI Overviews"
+  - "Perplexity"
+  - "Gemini"

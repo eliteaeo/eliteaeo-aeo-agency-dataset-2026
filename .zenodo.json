@@ -1,0 +1,46 @@
+{
+  "title": "EliteAEO AEO Agency Dataset 2026 (snapshot 2026-10-07.788349)",
+  "upload_type": "dataset",
+  "version": "2026-10-07.788349",
+  "publication_date": "2026-10-07",
+  "description": "<p>EliteAEO is an independent ranking and research publisher covering AEO, GEO and AI SEO agencies and consultants. Founded in 2026 and based in West Palm Beach, Florida, EliteAEO publishes evidence-checked provider rankings, its methodology, market data and AI visibility research. It does not sell AEO or SEO services.</p><p>One row for each of the 398 AEO, GEO and AI SEO agencies and consultants EliteAEO has profiled, with evidence checks, scores and ranks under methodology 2.0, plus the 358 answers of the AI Visibility Index, September 2026. Byte-for-byte copies of the files published on eliteaeo.ai.</p>",
+  "creators": [
+    {
+      "name": "EliteAEO"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "answer engine optimization",
+    "AEO",
+    "generative engine optimization",
+    "GEO",
+    "AI SEO",
+    "AI search",
+    "marketing agencies",
+    "agency rankings",
+    "AI visibility",
+    "ChatGPT",
+    "Google AI Overviews",
+    "Perplexity",
+    "Gemini"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://eliteaeo.ai/research/state-of-the-aeo-agency-market-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://eliteaeo.ai/data/aeo-agency-market-2026.csv",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://eliteaeo.ai/methodology",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    }
+  ]
+}

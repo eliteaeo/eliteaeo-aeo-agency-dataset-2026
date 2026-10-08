@@ -1,0 +1,1145 @@
+{
+ "tag": "panel-2026-09-28",
+ "collected": "2026-09-28",
+ "queries": 30,
+ "runs": 3,
+ "query_list": [
+  {
+   "query": "best AEO agency for dentists",
+   "vertical": "dental",
+   "intent": "hub"
+  },
+  {
+   "query": "best AI SEO agency for dental practices",
+   "vertical": "dental",
+   "intent": "hub"
+  },
+  {
+   "query": "who does answer engine optimization for dentists",
+   "vertical": "dental",
+   "intent": "hub"
+  },
+  {
+   "query": "AI SEO agency for dentists in New York",
+   "vertical": "dental",
+   "intent": "city"
+  },
+  {
+   "query": "dentists AEO agency near me Denver",
+   "vertical": "dental",
+   "intent": "city"
+  },
+  {
+   "query": "ranking of AI SEO agencies for dentists",
+   "vertical": "dental",
+   "intent": "directory"
+  },
+  {
+   "query": "best AEO agency for law firms",
+   "vertical": "legal",
+   "intent": "hub"
+  },
+  {
+   "query": "best AI SEO agency for lawyers",
+   "vertical": "legal",
+   "intent": "hub"
+  },
+  {
+   "query": "who does answer engine optimization for law firms",
+   "vertical": "legal",
+   "intent": "hub"
+  },
+  {
+   "query": "AI SEO agency for law firms in New York",
+   "vertical": "legal",
+   "intent": "city"
+  },
+  {
+   "query": "law firms AEO agency near me Denver",
+   "vertical": "legal",
+   "intent": "city"
+  },
+  {
+   "query": "ranking of AI SEO agencies for law firms",
+   "vertical": "legal",
+   "intent": "directory"
+  },
+  {
+   "query": "best AEO agency for medical practices",
+   "vertical": "healthcare",
+   "intent": "hub"
+  },
+  {
+   "query": "best AI SEO agency for healthcare",
+   "vertical": "healthcare",
+   "intent": "hub"
+  },
+  {
+   "query": "who does answer engine optimization for medical practices",
+   "vertical": "healthcare",
+   "intent": "hub"
+  },
+  {
+   "query": "AI SEO agency for medical practices in New York",
+   "vertical": "healthcare",
+   "intent": "city"
+  },
+  {
+   "query": "medical practices AEO agency near me Denver",
+   "vertical": "healthcare",
+   "intent": "city"
+  },
+  {
+   "query": "ranking of AI SEO agencies for medical practices",
+   "vertical": "healthcare",
+   "intent": "directory"
+  },
+  {
+   "query": "best AEO agency for SaaS companies",
+   "vertical": "saas",
+   "intent": "hub"
+  },
+  {
+   "query": "best AI SEO agency for B2B software",
+   "vertical": "saas",
+   "intent": "hub"
+  },
+  {
+   "query": "who does answer engine optimization for SaaS companies",
+   "vertical": "saas",
+   "intent": "hub"
+  },
+  {
+   "query": "AI SEO agency for SaaS companies in New York",
+   "vertical": "saas",
+   "intent": "city"
+  },
+  {
+   "query": "SaaS companies AEO agency near me Denver",
+   "vertical": "saas",
+   "intent": "city"
+  },
+  {
+   "query": "ranking of AI SEO agencies for SaaS companies",
+   "vertical": "saas",
+   "intent": "directory"
+  },
+  {
+   "query": "best AEO agency for HVAC companies",
+   "vertical": "home-services",
+   "intent": "hub"
+  },
+  {
+   "query": "best AI SEO agency for home service companies",
+   "vertical": "home-services",
+   "intent": "hub"
+  },
+  {
+   "query": "who does answer engine optimization for HVAC companies",
+   "vertical": "home-services",
+   "intent": "hub"
+  },
+  {
+   "query": "AI SEO agency for HVAC companies in New York",
+   "vertical": "home-services",
+   "intent": "city"
+  },
+  {
+   "query": "HVAC companies AEO agency near me Denver",
+   "vertical": "home-services",
+   "intent": "city"
+  },
+  {
+   "query": "ranking of AI SEO agencies for HVAC companies",
+   "vertical": "home-services",
+   "intent": "directory"
+  }
+ ],
+ "engines": [
+  {
+   "name": "ChatGPT",
+   "answers": 90,
+   "how": "ChatGPT with web search, collected through the DataForSEO ChatGPT scraper, United States, English"
+  },
+  {
+   "name": "Perplexity",
+   "answers": 90,
+   "how": "Perplexity Sonar model through the DataForSEO Perplexity endpoint, United States, English"
+  },
+  {
+   "name": "Gemini",
+   "answers": 90,
+   "how": "Gemini, collected through the DataForSEO Gemini scraper, United States, English"
+  },
+  {
+   "name": "Google AI Overviews",
+   "answers": 88,
+   "how": "Google desktop results for the United States in English, with the AI Overview and the top 20 organic results"
+  }
+ ],
+ "answers": 358,
+ "answers_with_citations": 357,
+ "citations": 3478,
+ "organic_serps": 90,
+ "any_provider_named": 325,
+ "distinct_providers_named": 148,
+ "providers_top": [
+  {
+   "slug": "first-page-sage",
+   "name": "First Page Sage",
+   "answers": 103,
+   "engines": {
+    "ChatGPT": 26,
+    "Gemini": 23,
+    "Google AI Overviews": 16,
+    "Perplexity": 38
+   }
+  },
+  {
+   "slug": "omniscient-digital",
+   "name": "Omniscient Digital",
+   "answers": 34,
+   "engines": {
+    "ChatGPT": 11,
+    "Gemini": 9,
+    "Google AI Overviews": 8,
+    "Perplexity": 6
+   }
+  },
+  {
+   "slug": "aeo-engine",
+   "name": "AEO Engine",
+   "answers": 30,
+   "engines": {
+    "ChatGPT": 12,
+    "Google AI Overviews": 11,
+    "Perplexity": 7
+   }
+  },
+  {
+   "slug": "cardinal-digital-marketing",
+   "name": "Cardinal Digital Marketing",
+   "answers": 29,
+   "engines": {
+    "ChatGPT": 3,
+    "Gemini": 8,
+    "Google AI Overviews": 9,
+    "Perplexity": 9
+   }
+  },
+  {
+   "slug": "ipullrank",
+   "name": "iPullRank",
+   "answers": 27,
+   "engines": {
+    "ChatGPT": 8,
+    "Gemini": 10,
+    "Google AI Overviews": 4,
+    "Perplexity": 5
+   }
+  },
+  {
+   "slug": "searchbloom",
+   "name": "Searchbloom",
+   "answers": 27,
+   "engines": {
+    "ChatGPT": 3,
+    "Gemini": 4,
+    "Google AI Overviews": 6,
+    "Perplexity": 14
+   }
+  },
+  {
+   "slug": "onely",
+   "name": "Onely",
+   "answers": 26,
+   "engines": {
+    "ChatGPT": 3,
+    "Gemini": 11,
+    "Google AI Overviews": 6,
+    "Perplexity": 6
+   }
+  },
+  {
+   "slug": "thrive-internet-marketing-agency",
+   "name": "Thrive Internet Marketing Agency",
+   "answers": 25,
+   "engines": {
+    "Gemini": 5,
+    "Google AI Overviews": 5,
+    "Perplexity": 15
+   }
+  },
+  {
+   "slug": "webfx",
+   "name": "WebFX",
+   "answers": 24,
+   "engines": {
+    "ChatGPT": 12,
+    "Gemini": 4,
+    "Google AI Overviews": 1,
+    "Perplexity": 7
+   }
+  },
+  {
+   "slug": "intercore-technologies",
+   "name": "InterCore Technologies",
+   "answers": 24,
+   "engines": {
+    "ChatGPT": 16,
+    "Google AI Overviews": 2,
+    "Perplexity": 6
+   }
+  },
+  {
+   "slug": "ilawyer-marketing",
+   "name": "iLawyer Marketing",
+   "answers": 24,
+   "engines": {
+    "ChatGPT": 1,
+    "Gemini": 7,
+    "Google AI Overviews": 7,
+    "Perplexity": 9
+   }
+  },
+  {
+   "slug": "scorpion",
+   "name": "Scorpion",
+   "answers": 23,
+   "engines": {
+    "ChatGPT": 2,
+    "Gemini": 7,
+    "Google AI Overviews": 7,
+    "Perplexity": 7
+   }
+  },
+  {
+   "slug": "lawrank",
+   "name": "LawRank",
+   "answers": 22,
+   "engines": {
+    "ChatGPT": 6,
+    "Gemini": 6,
+    "Google AI Overviews": 5,
+    "Perplexity": 5
+   }
+  },
+  {
+   "slug": "hook-agency",
+   "name": "Hook Agency",
+   "answers": 20,
+   "engines": {
+    "ChatGPT": 5,
+    "Gemini": 8,
+    "Google AI Overviews": 3,
+    "Perplexity": 4
+   }
+  },
+  {
+   "slug": "ryno-strategic-solutions",
+   "name": "RYNO Strategic Solutions",
+   "answers": 20,
+   "engines": {
+    "ChatGPT": 1,
+    "Gemini": 6,
+    "Google AI Overviews": 6,
+    "Perplexity": 7
+   }
+  },
+  {
+   "slug": "siege-media",
+   "name": "Siege Media",
+   "answers": 19,
+   "engines": {
+    "ChatGPT": 10,
+    "Gemini": 2,
+    "Google AI Overviews": 3,
+    "Perplexity": 4
+   }
+  },
+  {
+   "slug": "rankings-io",
+   "name": "Rankings.io",
+   "answers": 19,
+   "engines": {
+    "ChatGPT": 5,
+    "Gemini": 5,
+    "Google AI Overviews": 3,
+    "Perplexity": 6
+   }
+  },
+  {
+   "slug": "algomizer",
+   "name": "Algomizer",
+   "answers": 18,
+   "engines": {
+    "ChatGPT": 3,
+    "Google AI Overviews": 6,
+    "Perplexity": 9
+   }
+  },
+  {
+   "slug": "nogood",
+   "name": "NoGood",
+   "answers": 17,
+   "engines": {
+    "ChatGPT": 5,
+    "Gemini": 4,
+    "Google AI Overviews": 4,
+    "Perplexity": 4
+   }
+  },
+  {
+   "slug": "rizeup-media",
+   "name": "RizeUp Media",
+   "answers": 17,
+   "engines": {
+    "ChatGPT": 4,
+    "Gemini": 4,
+    "Google AI Overviews": 6,
+    "Perplexity": 3
+   }
+  }
+ ],
+ "source_types": [
+  {
+   "type": "Provider websites in the EliteAEO dataset",
+   "key": "provider",
+   "answers": 263,
+   "citations": 718
+  },
+  {
+   "type": "\"Best agencies\" list articles",
+   "key": "list",
+   "answers": 226,
+   "citations": 938
+  },
+  {
+   "type": "Directories, marketplaces and Google business listings",
+   "key": "directory",
+   "answers": 90,
+   "citations": 243
+  },
+  {
+   "type": "Press releases and syndicated releases",
+   "key": "press",
+   "answers": 51,
+   "citations": 149
+  },
+  {
+   "type": "Social and video",
+   "key": "social",
+   "answers": 90,
+   "citations": 151
+  },
+  {
+   "type": "Forums",
+   "key": "forum",
+   "answers": 24,
+   "citations": 31
+  },
+  {
+   "type": "Other websites",
+   "key": "other",
+   "answers": 298,
+   "citations": 1248
+  }
+ ],
+ "top_domains": [
+  {
+   "domain": "firstpagesage.com",
+   "answers": 89,
+   "type": "\"Best agencies\" list articles",
+   "provider": "First Page Sage"
+  },
+  {
+   "domain": "linkedin.com",
+   "answers": 62,
+   "type": "Social and video",
+   "provider": null
+  },
+  {
+   "domain": "webtonic.io",
+   "answers": 46,
+   "type": "\"Best agencies\" list articles",
+   "provider": "Web Tonic"
+  },
+  {
+   "domain": "thriveagency.com",
+   "answers": 44,
+   "type": "\"Best agencies\" list articles",
+   "provider": "Thrive Internet Marketing Agency"
+  },
+  {
+   "domain": "searchbloom.com",
+   "answers": 39,
+   "type": "\"Best agencies\" list articles",
+   "provider": "Searchbloom"
+  },
+  {
+   "domain": "onely.com",
+   "answers": 35,
+   "type": "Provider websites in the EliteAEO dataset",
+   "provider": "Onely"
+  },
+  {
+   "domain": "designrush.com",
+   "answers": 33,
+   "type": "Directories, marketplaces and Google business listings",
+   "provider": null
+  },
+  {
+   "domain": "aeoengine.ai",
+   "answers": 26,
+   "type": "Provider websites in the EliteAEO dataset",
+   "provider": "AEO Engine"
+  },
+  {
+   "domain": "clutch.co",
+   "answers": 26,
+   "type": "Directories, marketplaces and Google business listings",
+   "provider": null
+  },
+  {
+   "domain": "intercore.net",
+   "answers": 23,
+   "type": "Provider websites in the EliteAEO dataset",
+   "provider": "InterCore Technologies"
+  },
+  {
+   "domain": "webfx.com",
+   "answers": 23,
+   "type": "\"Best agencies\" list articles",
+   "provider": "WebFX"
+  },
+  {
+   "domain": "hvacwebmasters.com",
+   "answers": 22,
+   "type": "Provider websites in the EliteAEO dataset",
+   "provider": "HVAC Webmasters"
+  },
+  {
+   "domain": "reddit.com",
+   "answers": 22,
+   "type": "Forums",
+   "provider": null
+  },
+  {
+   "domain": "rizeupmedia.com",
+   "answers": 21,
+   "type": "Provider websites in the EliteAEO dataset",
+   "provider": "RizeUp Media"
+  },
+  {
+   "domain": "builtrightdigital.com",
+   "answers": 21,
+   "type": "\"Best agencies\" list articles",
+   "provider": null
+  }
+ ],
+ "directories": [
+  {
+   "domain": "designrush.com",
+   "answers": 33
+  },
+  {
+   "domain": "clutch.co",
+   "answers": 26
+  },
+  {
+   "domain": "agencies.semrush.com",
+   "answers": 19
+  },
+  {
+   "domain": "maps.google.com",
+   "answers": 13
+  },
+  {
+   "domain": "rankprompt.com",
+   "answers": 9
+  },
+  {
+   "domain": "google.com",
+   "answers": 8
+  },
+  {
+   "domain": "bbb.org",
+   "answers": 6
+  },
+  {
+   "domain": "aiclicks.io",
+   "answers": 3
+  }
+ ],
+ "list_publishers": [
+  {
+   "domain": "firstpagesage.com",
+   "answers": 89,
+   "provider": "First Page Sage"
+  },
+  {
+   "domain": "webtonic.io",
+   "answers": 40,
+   "provider": "Web Tonic"
+  },
+  {
+   "domain": "thriveagency.com",
+   "answers": 38,
+   "provider": "Thrive Internet Marketing Agency"
+  },
+  {
+   "domain": "searchbloom.com",
+   "answers": 30,
+   "provider": "Searchbloom"
+  },
+  {
+   "domain": "builtrightdigital.com",
+   "answers": 18,
+   "provider": null
+  },
+  {
+   "domain": "yesoptimist.com",
+   "answers": 18,
+   "provider": null
+  },
+  {
+   "domain": "silverbackstrategies.com",
+   "answers": 17,
+   "provider": null
+  },
+  {
+   "domain": "webfx.com",
+   "answers": 15,
+   "provider": "WebFX"
+  }
+ ],
+ "list_answers_by_providers": 167,
+ "list_check": {
+  "pattern_urls": 258,
+  "checked_urls": 258,
+  "not_lists": 19,
+  "date": "2026-09-29",
+  "pattern_list_answers": 236,
+  "pattern_provider_list_answers": 173
+ },
+ "by_vertical": [
+  {
+   "vertical": "Dental",
+   "slug": "dental",
+   "answers": 71,
+   "top": [
+    {
+     "name": "Algomizer",
+     "slug": "algomizer",
+     "answers": 18
+    },
+    {
+     "name": "First Page Sage",
+     "slug": "first-page-sage",
+     "answers": 16
+    },
+    {
+     "name": "Identity Dental Marketing",
+     "slug": "identity-dental-marketing",
+     "answers": 15
+    },
+    {
+     "name": "Titan Web Agency",
+     "slug": "titan-web-agency",
+     "answers": 14
+    },
+    {
+     "name": "Searchbloom",
+     "slug": "searchbloom",
+     "answers": 14
+    }
+   ],
+   "our_top10_named": 4,
+   "our_top10": 10,
+   "named": {
+    "algomizer": 18,
+    "first-page-sage": 16,
+    "identity-dental-marketing": 15,
+    "titan-web-agency": 14,
+    "searchbloom": 14,
+    "delmain": 13,
+    "gargle": 11,
+    "dentalscapes": 11,
+    "growdent": 9,
+    "thrive-internet-marketing-agency": 9,
+    "lasso-md": 8,
+    "doctor-rank": 6,
+    "harris-and-ward": 6,
+    "elevate-dds": 6,
+    "scalz-ai": 6,
+    "keygrow": 5,
+    "great-dental-websites": 5,
+    "funnel-boost-media": 5,
+    "cardinal-digital-marketing": 5,
+    "ihealth-marketing": 4,
+    "prime-dental-seo": 3,
+    "kickstart-dental-marketing": 3,
+    "amplify360": 3,
+    "clicta-digital": 3,
+    "focus-digital": 2,
+    "yooniversal-media": 2,
+    "peaks-digital-marketing": 2,
+    "eye-to-ad-media": 2,
+    "seoprofy": 2,
+    "siege-media": 1,
+    "ipullrank": 1,
+    "nogood": 1,
+    "webfx": 1,
+    "target-patients-md": 1,
+    "dallas-dental-seo": 1,
+    "apex-digitech": 1,
+    "das-consultants": 1,
+    "firestarter-seo": 1,
+    "sagapixel": 1,
+    "kaleidoscopeai": 1,
+    "powered-by-search": 1,
+    "geek-dental-marketing": 1,
+    "flow-new-patient-marketing": 1,
+    "click-track-marketing": 1,
+    "web-tonic": 1,
+    "propellant-media": 1
+   }
+  },
+  {
+   "vertical": "Legal",
+   "slug": "legal",
+   "answers": 71,
+   "top": [
+    {
+     "name": "InterCore Technologies",
+     "slug": "intercore-technologies",
+     "answers": 24
+    },
+    {
+     "name": "iLawyer Marketing",
+     "slug": "ilawyer-marketing",
+     "answers": 24
+    },
+    {
+     "name": "First Page Sage",
+     "slug": "first-page-sage",
+     "answers": 22
+    },
+    {
+     "name": "LawRank",
+     "slug": "lawrank",
+     "answers": 22
+    },
+    {
+     "name": "AEO Engine",
+     "slug": "aeo-engine",
+     "answers": 21
+    }
+   ],
+   "our_top10_named": 5,
+   "our_top10": 10,
+   "named": {
+    "intercore-technologies": 24,
+    "ilawyer-marketing": 24,
+    "first-page-sage": 22,
+    "lawrank": 22,
+    "aeo-engine": 21,
+    "rankings-io": 19,
+    "rizeup-media": 17,
+    "hennessey-digital": 17,
+    "esquire-digital": 12,
+    "juris-digital": 10,
+    "lawshift": 9,
+    "grow-law": 9,
+    "esquire-interactive": 8,
+    "seoprofy": 8,
+    "pioneerly": 7,
+    "consultwebs": 7,
+    "glp-marketing": 7,
+    "legal-guardian-digital": 6,
+    "thrive-internet-marketing-agency": 6,
+    "custom-legal-marketing": 6,
+    "searchbloom": 6,
+    "paperstreet": 4,
+    "fuel-online": 4,
+    "milemark-media": 4,
+    "good2bsocial": 3,
+    "funnel-boost-media": 3,
+    "seo-for-lawyers-llc-lawseo-com": 3,
+    "attorney-marketing-network": 2,
+    "seotuners": 2,
+    "meanpug-digital": 2,
+    "legalrank": 2,
+    "clicta-digital": 2,
+    "ewr-digital": 2,
+    "lawfather": 2,
+    "scorpion": 2,
+    "premier-legal-marketing": 1,
+    "boulder-seo-marketing": 1,
+    "peaks-digital-marketing": 1,
+    "kailxlabs": 1,
+    "skyscale": 1,
+    "digital-neighbor": 1,
+    "9sail": 1,
+    "firestarter-seo": 1
+   }
+  },
+  {
+   "vertical": "Healthcare",
+   "slug": "healthcare",
+   "answers": 72,
+   "top": [
+    {
+     "name": "First Page Sage",
+     "slug": "first-page-sage",
+     "answers": 28
+    },
+    {
+     "name": "Cardinal Digital Marketing",
+     "slug": "cardinal-digital-marketing",
+     "answers": 24
+    },
+    {
+     "name": "PatientGain",
+     "slug": "patientgain",
+     "answers": 15
+    },
+    {
+     "name": "Intrepy Healthcare Marketing",
+     "slug": "intrepy-healthcare-marketing",
+     "answers": 13
+    },
+    {
+     "name": "Onely",
+     "slug": "onely",
+     "answers": 12
+    }
+   ],
+   "our_top10_named": 3,
+   "our_top10": 10,
+   "named": {
+    "first-page-sage": 28,
+    "cardinal-digital-marketing": 24,
+    "patientgain": 15,
+    "intrepy-healthcare-marketing": 13,
+    "onely": 12,
+    "ai-search-engineers": 11,
+    "onspire-health-marketing": 10,
+    "target-patients-md": 9,
+    "percepture": 8,
+    "webfx": 7,
+    "doctor-rank": 7,
+    "silvr-agency": 6,
+    "glacial-multimedia": 5,
+    "etna-interactive": 5,
+    "digital-elevator": 5,
+    "fuel-online": 4,
+    "sagapixel": 4,
+    "ichelon-consulting-group-icg": 4,
+    "stethon-digital-marketing": 4,
+    "med-seo": 3,
+    "das-consultants": 3,
+    "peaks-digital-marketing": 3,
+    "focus-digital": 3,
+    "kailxlabs": 3,
+    "clicta-digital": 3,
+    "seotuners": 2,
+    "ipullrank": 2,
+    "siege-media": 2,
+    "inbound-medic": 2,
+    "funnel-boost-media": 2,
+    "digital-limelight-media": 1,
+    "empathy-first-media": 1,
+    "eye-to-ad-media": 1,
+    "web-tonic": 1,
+    "nogood": 1,
+    "thrive-internet-marketing-agency": 1,
+    "maximuslabs": 1,
+    "aeo-engine": 1,
+    "searchbloom": 1,
+    "mgmt-digital": 1
+   }
+  },
+  {
+   "vertical": "SaaS",
+   "slug": "saas",
+   "answers": 72,
+   "top": [
+    {
+     "name": "Omniscient Digital",
+     "slug": "omniscient-digital",
+     "answers": 34
+    },
+    {
+     "name": "iPullRank",
+     "slug": "ipullrank",
+     "answers": 24
+    },
+    {
+     "name": "Siege Media",
+     "slug": "siege-media",
+     "answers": 16
+    },
+    {
+     "name": "First Page Sage",
+     "slug": "first-page-sage",
+     "answers": 16
+    },
+    {
+     "name": "NoGood",
+     "slug": "nogood",
+     "answers": 15
+    }
+   ],
+   "our_top10_named": 10,
+   "our_top10": 10,
+   "named": {
+    "omniscient-digital": 34,
+    "ipullrank": 24,
+    "siege-media": 16,
+    "first-page-sage": 16,
+    "nogood": 15,
+    "directive": 14,
+    "skale": 13,
+    "discovered-labs": 12,
+    "simpletiger": 11,
+    "breaking-b2b": 9,
+    "rock-the-rankings": 9,
+    "web-tonic": 8,
+    "omnius": 8,
+    "aeo-engine": 7,
+    "minuttia": 6,
+    "animalz": 6,
+    "quoleady": 6,
+    "onely": 6,
+    "trioseo": 5,
+    "spicy-margarita": 5,
+    "searchbloom": 5,
+    "revenuezen": 4,
+    "posirank": 3,
+    "derivatex": 3,
+    "growth-plays": 2,
+    "fuel-online": 2,
+    "webfx": 2,
+    "eye-to-ad-media": 2,
+    "powered-by-search": 2,
+    "grizzle": 2,
+    "graphite": 2,
+    "boulder-seo-marketing": 2,
+    "1digital-agency": 2,
+    "madx-digital": 2,
+    "flow-agency": 1,
+    "flying-cat-marketing": 1,
+    "digital-elevator": 1,
+    "marcel-digital": 1,
+    "peaks-digital-marketing": 1,
+    "seotuners": 1,
+    "firestarter-seo": 1,
+    "doc-digital-sem": 1,
+    "avenue-z": 1,
+    "mint-position": 1,
+    "seoprofy": 1
+   }
+  },
+  {
+   "vertical": "Home services",
+   "slug": "home-services",
+   "answers": 72,
+   "top": [
+    {
+     "name": "First Page Sage",
+     "slug": "first-page-sage",
+     "answers": 21
+    },
+    {
+     "name": "Scorpion",
+     "slug": "scorpion",
+     "answers": 21
+    },
+    {
+     "name": "Hook Agency",
+     "slug": "hook-agency",
+     "answers": 20
+    },
+    {
+     "name": "RYNO Strategic Solutions",
+     "slug": "ryno-strategic-solutions",
+     "answers": 20
+    },
+    {
+     "name": "HVAC Webmasters",
+     "slug": "hvac-webmasters",
+     "answers": 16
+    }
+   ],
+   "our_top10_named": 5,
+   "our_top10": 10,
+   "named": {
+    "first-page-sage": 21,
+    "scorpion": 21,
+    "hook-agency": 20,
+    "ryno-strategic-solutions": 20,
+    "hvac-webmasters": 16,
+    "webfx": 14,
+    "focus-digital": 10,
+    "scalz-ai": 10,
+    "thrive-internet-marketing-agency": 9,
+    "onely": 8,
+    "posirank": 8,
+    "siana-marketing": 7,
+    "web-tonic": 6,
+    "ci-web-group": 6,
+    "paradigm-media-networks": 4,
+    "rankmetop": 4,
+    "percepture": 4,
+    "netrocket": 3,
+    "nla-media": 3,
+    "mindflow-marketing": 2,
+    "eye-to-ad-media": 2,
+    "engineered-reach": 2,
+    "kailxlabs": 2,
+    "footbridge-media": 2,
+    "jh-seo-agency": 2,
+    "intleacht-ai-systems": 1,
+    "clicta-digital": 1,
+    "powered-by-search": 1,
+    "market-disruptors-ai-visibility-agency": 1,
+    "aeo-engine": 1,
+    "grow-nearby": 1,
+    "funnel-boost-media": 1,
+    "localmighty": 1,
+    "effective-media-solutions": 1,
+    "rs-gonzales": 1,
+    "comrade-digital-marketing-agency": 1,
+    "lifted-websites": 1,
+    "kell-web-solutions": 1,
+    "searchbloom": 1
+   }
+  }
+ ],
+ "engine_agreement": {
+  "pairs": 426,
+  "by_engines": {
+   "1": 254,
+   "2": 103,
+   "3": 46,
+   "4": 23
+  },
+  "pairwise": [
+   {
+    "a": "ChatGPT",
+    "b": "Perplexity",
+    "queries": 30,
+    "mean_overlap": 0.221
+   },
+   {
+    "a": "ChatGPT",
+    "b": "Gemini",
+    "queries": 30,
+    "mean_overlap": 0.184
+   },
+   {
+    "a": "ChatGPT",
+    "b": "Google AI Overviews",
+    "queries": 30,
+    "mean_overlap": 0.192
+   },
+   {
+    "a": "Perplexity",
+    "b": "Gemini",
+    "queries": 30,
+    "mean_overlap": 0.196
+   },
+   {
+    "a": "Perplexity",
+    "b": "Google AI Overviews",
+    "queries": 30,
+    "mean_overlap": 0.193
+   },
+   {
+    "a": "Gemini",
+    "b": "Google AI Overviews",
+    "queries": 29,
+    "mean_overlap": 0.243
+   }
+  ]
+ },
+ "stability": [
+  {
+   "engine": "ChatGPT",
+   "queries": 30,
+   "mean_overlap": 0.379,
+   "named_any_run": 206,
+   "named_every_run": 40
+  },
+  {
+   "engine": "Perplexity",
+   "queries": 30,
+   "mean_overlap": 0.651,
+   "named_any_run": 135,
+   "named_every_run": 67
+  },
+  {
+   "engine": "Gemini",
+   "queries": 30,
+   "mean_overlap": 0.553,
+   "named_any_run": 148,
+   "named_every_run": 63
+  },
+  {
+   "engine": "Google AI Overviews",
+   "queries": 30,
+   "mean_overlap": 0.326,
+   "named_any_run": 201,
+   "named_every_run": 28
+  }
+ ],
+ "eliteaeo": {
+  "ai": [
+   {
+    "engine": "ChatGPT",
+    "answers": 90,
+    "named": 0,
+    "cited": 0
+   },
+   {
+    "engine": "Perplexity",
+    "answers": 90,
+    "named": 0,
+    "cited": 3
+   },
+   {
+    "engine": "Gemini",
+    "answers": 90,
+    "named": 0,
+    "cited": 0
+   },
+   {
+    "engine": "Google AI Overviews",
+    "answers": 88,
+    "named": 5,
+    "cited": 5
+   }
+  ],
+  "organic_top20": 8,
+  "organic_serps": 90,
+  "organic_queries": [
+   "dentists AEO agency near me Denver",
+   "law firms AEO agency near me Denver",
+   "medical practices AEO agency near me Denver"
+  ]
+ },
+ "primary_position": {
+  "answers": 10,
+  "queries": [
+   {
+    "query": "AI SEO agency for SaaS companies in New York",
+    "answers": 8
+   },
+   {
+    "query": "AI SEO agency for law firms in New York",
+    "answers": 2
+   }
+  ]
+ }
+}

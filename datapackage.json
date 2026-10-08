@@ -1,0 +1,258 @@
+{
+  "name": "eliteaeo-aeo-agency-dataset-2026",
+  "title": "EliteAEO AEO Agency Dataset 2026",
+  "description": "EliteAEO is an independent ranking and research publisher covering AEO, GEO and AI SEO agencies and consultants. Founded in 2026 and based in West Palm Beach, Florida, EliteAEO publishes evidence-checked provider rankings, its methodology, market data and AI visibility research. It does not sell AEO or SEO services.",
+  "homepage": "https://eliteaeo.ai/research/state-of-the-aeo-agency-market-2026",
+  "version": "2026-10-07.788349",
+  "created": "2026-10-07",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "EliteAEO",
+      "path": "https://eliteaeo.ai/about",
+      "role": "publisher"
+    }
+  ],
+  "keywords": [
+    "answer engine optimization",
+    "AEO",
+    "generative engine optimization",
+    "GEO",
+    "AI SEO",
+    "AI search",
+    "marketing agencies",
+    "agency rankings",
+    "AI visibility",
+    "ChatGPT",
+    "Google AI Overviews",
+    "Perplexity",
+    "Gemini"
+  ],
+  "sources": [
+    {
+      "title": "eliteaeo.ai",
+      "path": "https://eliteaeo.ai/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "providers",
+      "path": "data/aeo-agency-market-2026.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "name": "provider",
+            "type": "string",
+            "description": "Provider name as EliteAEO shows it."
+          },
+          {
+            "name": "eliteaeo_profile_url",
+            "type": "string",
+            "description": "The provider's profile on eliteaeo.ai."
+          },
+          {
+            "name": "website",
+            "type": "string",
+            "description": "The provider's own website."
+          },
+          {
+            "name": "provider_type",
+            "type": "string",
+            "description": "agency or consultant."
+          },
+          {
+            "name": "hq_city",
+            "type": "string",
+            "description": "City of the head office, where known."
+          },
+          {
+            "name": "hq_state",
+            "type": "string",
+            "description": "State or region code of the head office, where known."
+          },
+          {
+            "name": "hq_country",
+            "type": "string",
+            "description": "ISO 3166-1 two-letter country code of the head office (US, GB, CA, IN and so on). Blank when not established."
+          },
+          {
+            "name": "eligible",
+            "type": "string",
+            "description": "yes when the provider is eligible for EliteAEO rankings: a live, legitimate company that offers answer engine or AI search services, serves at least one industry EliteAEO ranks, and whose evidence passed our checks. Eligibility is decided before scoring and never considers payment."
+          },
+          {
+            "name": "verified",
+            "type": "string",
+            "description": "yes when a dated verification review confirmed that the website is live and belongs to a real company, that at least one independent third-party profile exists, and that at least one piece of evidence ties the provider to a ranked industry. Verified is not a scoring factor."
+          },
+          {
+            "name": "verified_date",
+            "type": "date",
+            "description": "Date of the verification review (YYYY-MM-DD)."
+          },
+          {
+            "name": "evidence_last_checked",
+            "type": "date",
+            "description": "Latest date any of the provider's evidence was opened, in the verification review or the AI outcome check. Shown, never scored."
+          },
+          {
+            "name": "verticals_ranked",
+            "type": "string",
+            "description": "Industries the provider is eligible to be ranked in, separated by \"; \". Values: dental, legal, healthcare, saas, home-services, local."
+          },
+          {
+            "name": "evidence_by_vertical",
+            "type": "string",
+            "description": "Strongest evidence per industry, as \"industry: type\" pairs. Types: case_study, only_agency (works only with that industry), named_client, service_page, blog_post, none."
+          },
+          {
+            "name": "aeo_offering",
+            "type": "string",
+            "description": "What the provider sells: full_service, advisory, content, tools or unclear."
+          },
+          {
+            "name": "reports_ai_visibility",
+            "type": "string",
+            "description": "Whether the provider says it reports AI visibility to clients: yes, no or not stated."
+          },
+          {
+            "name": "ai_results_proof",
+            "type": "string",
+            "description": "Strongest proof of AI search results for a client, from strongest to weakest: AI outcome case study; Tracked AI visibility gains; AI result shown for a named client; AI results claimed, no example; No AI results shown. Blank when not eligible. A provider's own AI visibility does not count."
+          },
+          {
+            "name": "ai_results_url",
+            "type": "string",
+            "description": "Page that holds that proof. Blank when there is none or the provider is not eligible."
+          },
+          {
+            "name": "published_search_results",
+            "type": "string",
+            "description": "yes when the provider publishes a case study with measured search results (traffic, rankings or leads) in any industry. Blank when not eligible."
+          },
+          {
+            "name": "third_party_profile_url",
+            "type": "string",
+            "description": "An independent third-party profile of the provider (for example Clutch or DesignRush)."
+          },
+          {
+            "name": "years_active",
+            "type": "integer",
+            "description": "Years in business, from the provider's own pages or its third-party profile."
+          },
+          {
+            "name": "team_size",
+            "type": "string",
+            "description": "Team size as published."
+          },
+          {
+            "name": "starting_price_usd",
+            "type": "number",
+            "description": "Published starting price in US dollars. Blank when the provider does not publish one."
+          },
+          {
+            "name": "price_basis",
+            "type": "string",
+            "description": "How that price is billed: monthly, project (minimum project size), one_time, program (multi-month) or unspecified. Only monthly prices enter the monthly medians."
+          },
+          {
+            "name": "national_scores",
+            "type": "string",
+            "description": "EliteAEO Score (0 to 100) on each national industry ranking, as \"industry: score\" pairs."
+          },
+          {
+            "name": "national_ranks",
+            "type": "string",
+            "description": "Rank on each national industry ranking, as \"industry: rank\" pairs. T marks a shared rank (tied score)."
+          },
+          {
+            "name": "methodology_version",
+            "type": "string",
+            "description": "Version of the scoring methodology behind the scores and ranks."
+          },
+          {
+            "name": "dataset_snapshot",
+            "type": "string",
+            "description": "Snapshot ID: the data date plus a six-character fingerprint of every published fact, score and rank. It matches the snapshot in the footer of every eliteaeo.ai page built from the same data."
+          }
+        ]
+      }
+    },
+    {
+      "name": "ai_visibility_answers",
+      "path": "data/ai-visibility-index-2026-09-answers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "name": "engine",
+            "type": "string",
+            "description": "ChatGPT, Gemini, Perplexity or Google AI Overviews."
+          },
+          {
+            "name": "query",
+            "type": "string",
+            "description": "The buyer query asked, one of 30 fixed queries."
+          },
+          {
+            "name": "vertical",
+            "type": "string",
+            "description": "Industry the query is about."
+          },
+          {
+            "name": "query_type",
+            "type": "string",
+            "description": "hub (national), city or directory."
+          },
+          {
+            "name": "run",
+            "type": "integer",
+            "description": "Run number, 1 to 3. Each query was asked three times on each engine."
+          },
+          {
+            "name": "collected",
+            "type": "date",
+            "description": "Date the answer was collected."
+          },
+          {
+            "name": "providers_named",
+            "type": "string",
+            "description": "Providers in the EliteAEO dataset that the answer names, separated by \"; \"."
+          },
+          {
+            "name": "cited_domains",
+            "type": "string",
+            "description": "Domains the answer cites as sources, separated by \"; \"."
+          },
+          {
+            "name": "eliteaeo_named",
+            "type": "string",
+            "description": "yes when the answer names EliteAEO."
+          },
+          {
+            "name": "eliteaeo_cited",
+            "type": "string",
+            "description": "yes when the answer cites an eliteaeo.ai page."
+          }
+        ]
+      }
+    },
+    {
+      "name": "ai_visibility_summary",
+      "path": "data/ai-visibility-index-2026-09.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}
